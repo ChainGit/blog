@@ -1,2 +1,2 @@
 # blog
-📖 personal blog.
+📖 personal blogs, base on hexo.
