@@ -1,2 +1,2 @@
 # blog
-📖 personal blogs, base on hexo.
+📖 personal blogs sources, base on hexo and next theme.
